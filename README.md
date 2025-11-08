@@ -1,8 +1,8 @@
 # APP Restaurante
 
 Esta es la base de datos de la aplicación web del restaurante.
-La aplicacion es principalmente para la gestión de un restaurante, desarrollada en Java(servlets), con MySQL, y corriendo en un XAMPP, todos requisitos especificos de la entrega. 
-Principalmente lo que hace es permitir mostrar los menús, realizar y gestionar pedidos con interfaz gráfica y conexión a base de datos. 
+La aplicacion es principalmente para la gestión de un restaurante, desarrollada en Java(servlets), con MySQL, y corriendo en un XAMPP, todos requisitos específicos de la entrega. 
+Principalmente lo que hace es permitir mostrar el menú, realizar y gestionar pedidos con interfaz gráfica y conexión a base de datos. 
 
 
 ## Idea general
